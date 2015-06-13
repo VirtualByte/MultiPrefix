@@ -1,0 +1,5 @@
+name: MultiPrefix
+version: 1.0.0
+main: me.virtualbyte.plugins.multiprefix.MultiPrefix
+softdepend: [Vault]
+author: VirtualByte
